@@ -1,1 +1,12 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>My Helm Charts</title>
+</head>
+<body>
+  <h1>Welcome to My Helm Charts</h1>
+  <p>This is the homepage of my Helm charts repository.</p>
+</body>
+</html>
